@@ -2,10 +2,11 @@
 
 require_once("./phpQuery-onefile.php");
 
-test_add;
 
 //登録するDBに関する情報。
 //$dsn ='mysql:dbname=gomidashi;host=localhost;';
+
+add_test2;
 
 //MACの時はUNIXドメインソケットを渡さんといかんらしい
 $dsn ='mysql:dbname=gLAA0994264-nagatatetsu;host=mysql133.phy.lolipop.lan'
