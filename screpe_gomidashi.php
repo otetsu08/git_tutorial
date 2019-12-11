@@ -2,6 +2,8 @@
 
 require_once("./phpQuery-onefile.php");
 
+test_add;
+
 //登録するDBに関する情報。
 //$dsn ='mysql:dbname=gomidashi;host=localhost;';
 
